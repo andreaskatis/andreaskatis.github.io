@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>KBR Inc. at NASA Ames Research Center</a>.
+subtitle: KBR Inc. at NASA Ames Research Center.
 
 profile:
   align: right
