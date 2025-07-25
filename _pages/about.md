@@ -35,3 +35,8 @@ Link to your social media connections, too. This theme is set up to use [Font Aw
 
 
 Hi there! My name is Andreas Katis and I am a Computer Scientist for KBR, Inc. and a member of NASA Ames's Robust Software Engineering group (RSE). My research background is in the application of formal methods for the analysis of software systems, primarily at the level of requirements. I earned my BSc degree from the [Computer Engineering and Informatics Department (C.E.I.D.)](https://www.ceid.upatras.gr/en) at the University of Patras. I received my MsC and PhD in Computer Science from the [University of Minnesota](https://cse.umn.edu/cs) in 2020, under the supervision of Dr. Michael W. Whalen. My PhD thesis was on the development of realizability checking and reactive synthesis techniques for infinite-state problems.
+
+Current research projects:
+
+- [Formal Requirements Elicitation Tool (FRET)](https://github.com/NASA-SW-VnV/fret)
+- [Contract based Compositional verification of Simulink models (CoCoSim)](https://github.com/NASA-SW-VnV/CoCoSim)
